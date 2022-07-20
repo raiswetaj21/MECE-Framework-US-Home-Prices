@@ -1,0 +1,39 @@
+Components to consider during a case study:
+1. Market
+2. Competitors
+3. Customers
+4. Company
+5. Product
+
+5 ways to be MECE in Case Interviews:
+1. Algebra Structures
+2. Process Structures
+3. Conceptual Frameworks
+4. Segmentations
+5. Opposite Words
+
+Applying MECE Principle in below situations:
+1. Framing the problem
+2. Collecting Data
+3. Conducting Analyses
+4. Communicating
+
+MECE Principle (Converting business problem into a data problem) is a popular mantra at McKinsey:
+- Did I cover all the issues?
+- Are there no overlaps?
+
+How to deal with a given problem:
+1. Root cause reason, Not symptoms
+2. Find all root cause reasons
+3. Find all root cause fast and efficiently (Hypothesis)
+
+Factors affecting the Real Estate Market are:
+1. Demographics (Age, Race, Gender, Income, Migration patterns)
+2. Economy (GDP, Unemployment Rate, Manufacturing Growth, Prices of goods and services [INFLATION])
+3. Interest Rates (Loans/Mortgages)
+4. Government policies or subsidies
+
+Visualizations:
+Issue/Logic Tree (MECE)
+Decision Tree (MECE)
+Hypothesis Tree (MECE)
